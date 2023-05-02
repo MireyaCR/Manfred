@@ -11,9 +11,18 @@
       "title": "Junior Frontend Developer",
       "description": "Soy una persona que le gusta aprender como se hacen las cosas. Aunque inicialmente me interesé por la informática, tras mi período de prácticas, acabé como auxiliar administrativo, puesto en el que he podido crecer profesionalmente adquiriendo habilidades como trabajo en equipo, resolución de conflictos, gestión de tareas, análisis de datos y elaboración de informes, siempre con una visión crítica y constructiva. He retomado mis estudios para ser desarrollador de software y\nAcabo de finalizar un curso de fullstack developer con 4Geeks Academy donde he podido aprender y poner en práctica un amplio conjunto de herramientas y tecnologías como: HTML5, CSS, Bootstrap, React, Flux, Python, Flask, SQLAlchemy y SCRUM, entre otras. Así como analizar, diseñar, planificar y desarrollar nuestro proyecto fin de curso.\nBusco la oportunidad de entrar en un equipo en el que pueda fortalecer mis conocimientos, y además de, aportar mi madurez, capacidad de análisis y síntesis de problemas y ganas de hacer las cosas bien, seguir aprendiendo.",
       "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Jerez de la Frontera",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mireyadelacorte/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -124,6 +133,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mireyadelacorte/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
